@@ -5,7 +5,6 @@ It is created for **learning, practice, revision, and real-world UI design refer
 
 Whether you are a **beginner** or someone revising **advanced CSS**, this repo will help you understand how CSS works in real projects.
 
----
 
 Each folder contains **separate CSS files** with clear and reusable code.
 
@@ -17,6 +16,13 @@ Each folder contains **separate CSS files** with clear and reusable code.
 - Use as a quick revision guide
 - Reuse code in projects
 - Reference modern UI techniques
+
+---
+
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3 (Pure CSS, No Frameworks)
 
 ---
 
