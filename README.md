@@ -26,6 +26,19 @@ Each folder contains **separate CSS files** with clear and reusable code.
 
 ---
 
+🌟 Who Is This For?
+
+- Beginners learning CSS
+
+- Students preparing for exams
+
+- Frontend developers
+
+- Anyone improving UI design skills
+
+---
+
+
 ## ⭐ Support
 If you find this repository helpful:
 - Give it a ⭐
