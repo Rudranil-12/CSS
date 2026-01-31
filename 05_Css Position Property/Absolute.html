@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            border: 1px solid black;
+        }
+        img{
+            margin: 10px;
+        }
+
+        .image2{
+            position: absolute;
+            top: 100px;
+        }
+
+        .container{
+            position: relative;
+            
+        }
+        /* we have to set the container relative because this property will have to 
+         maintain any nearest class and the nearest class here will be div */
+
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <img src="image1.png" alt="1st image" width="300px" height="300px" class="image1">
+
+        <img src="image2.png" alt="2nd image" width="300px" height="300px" class="image2">
+
+        <img src="image3.png" alt="3rd image" width="300px" height="300px" class="image3">
+
+        <img src="image4.png" alt="4th image" width="300px" height="300px" class="image4">
+    </div>
+</body>
+</html>
