@@ -1,0 +1,5 @@
+Here i only do the things in the " flex-direction: row; " wise thats why all the div container put in row wise
+you can set the " flex-direction: column; " and then see the container. The container will be placed in the
+the vartical direction.
+
+In the " flex-direction: row; " the container will placed in the horizontal way
