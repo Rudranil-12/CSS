@@ -10,6 +10,7 @@ Each folder contains **separate CSS files** with clear and reusable code.
 
 ---
 
+
 ## 🎯 Purpose of This Repository
 - Learn CSS step by step
 - Practice real-world CSS layouts
