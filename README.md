@@ -40,7 +40,7 @@ Each folder contains **separate CSS files** with clear and reusable code.
 
 
 ## ⭐ Support
-If you find this repository helpful:
+If you find this repository helpful then:
 - Give it a ⭐
 - Share it with your friends
 
