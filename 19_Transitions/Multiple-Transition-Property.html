@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiple Transition Properties</title>
+</head>
+<style>
+    .box{
+        height: 400px;
+        width: 400px;
+        background-color: blueviolet;
+        border: 2px solid black;
+
+        transition: width 2s, height 5s;
+    }
+
+    .box:hover{
+        width: 1000px;
+        height: 500px;
+        background-color: brown;
+    }
+</style>
+<body>
+    <div class="box">
+        Hover over me to see the transition effect!
+    </div>
+</body>
+</html>
